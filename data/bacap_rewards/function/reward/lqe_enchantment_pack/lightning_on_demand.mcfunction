@@ -1,0 +1,2 @@
+give @s minecraft:enchanted_book[minecraft:stored_enchantments={"minecraft:impaling":4}] 1
+tellraw @s {"color":"green","text":" +1 ","extra":[{"translate":"enchantment.minecraft.impaling"},{"text":" "},{"translate":"enchantment.level.4"},{"text":" "},{"translate":"item.minecraft.enchanted_book"}]}

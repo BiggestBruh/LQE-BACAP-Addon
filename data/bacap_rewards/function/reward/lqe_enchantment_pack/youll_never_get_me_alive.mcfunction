@@ -1,0 +1,2 @@
+give @s minecraft:potion[potion_contents=strong_swiftness] 1
+tellraw @s {"color":"green","text":" +1 ","extra":[{"translate":"item.minecraft.potion.effect.swiftness"},{"text":" II "},{"translate":"item.minecraft.potion"}]}
